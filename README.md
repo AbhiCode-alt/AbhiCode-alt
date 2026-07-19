@@ -7,7 +7,9 @@
 
 # Hi 👋, I'm Abhishek Kumar
 
-<img src="https://komarev.com/ghpvc/?username=AbhiCode-alt&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhiCode-alt&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=AbhiCode-alt&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
