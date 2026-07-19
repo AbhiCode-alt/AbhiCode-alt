@@ -240,15 +240,28 @@
 A secure document redaction application that automatically detects and masks sensitive information from PDF and DOCX files.
 
 ### ✨ Features
-- 🔍 OCR-based Text Detection
-- 🔒 Sensitive Data Masking
-- 📄 PDF & DOCX Support
-- ⚡ Fast Processing
-- 💾 Secure Export
+- 🤖 AI-powered Sensitive Data Detection
+- 🔍 OCR-based Text Extraction
+- 📄 PDF Document Processing
+- 🛡️ Automatic Sensitive Data Redaction
+- ✍️ Manual Data Masking
+- 👀 Before & After Document Preview
+- 📥 Secure Export of Redacted Documents
+- 📊 Redaction History & Analytics
+- 🔒 Secure Document Processing
+- ⚡ Fast & Accurate Redaction
 
 **Tech Stack**
 
-`Java` `Spring Boot` `MongoDB` `OCR` `HTML` `CSS` `JavaScript`
+- **Programming Language:** Python 3.10+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** FastAPI
+- **Database:** MongoDB
+- **NLP Model:** Ollama Gemma 3 1B (Cloud)
+- **OCR Engine:** Tesseract OCR
+- **PDF Processing:** PyMuPDF
+- **IDE:** Visual Studio Code (VS Code)
+- **Version Control:** Git & GitHub
 
 🔗 **GitHub:** *Coming Soon*
 
@@ -264,18 +277,32 @@ A modern web application focused on intelligent confidential data detection and 
 
 ### ✨ Features
 
-- 📑 Smart Document Upload
-- 🤖 AI-assisted Detection
-- 🔒 Secure Redaction
-- 📊 Dashboard
-- 📥 Download Redacted Files
-
+- 🔐 Secure Firebase Authentication
+- 💻 Smart Multi-Language Code Editor
+- 📁 Persistent Project Management (Hive)
+- 📊 Real-Time System Monitoring
+- 🎨 Dark & Light Theme Support
+- 📱 Fully Responsive UI
+- 🕒 Activity Timeline Dashboard
+- 🔄 Export, Import & File Comparison
+- 🧪 Unit Testing & GitHub Actions CI
+- 🏗️ Clean MVVM Architecture
+  
 **Tech Stack**
 
-`Java` `Spring Boot` `MongoDB`
-`HTML`
-`CSS`
-`JavaScript`
+## 🚀 Tech Stack
+
+**Frontend:** Flutter 3.32+, Dart, Material 3 
+
+**Architecture:** Clean Architecture, MVVM, Provider 
+
+**Backend:** Firebase Authentication, Firebase Core  
+
+**Storage:** Hive NoSQL, Shared Preferences  
+
+**UI & Charts:** Google Fonts, Flutter Highlight, FL Chart, Flutter SVG  
+
+**Testing & CI/CD:** Flutter Test, GitHub Actions
 
 🔗 **GitHub:** *Coming Soon*
 
@@ -374,8 +401,6 @@ A business intelligence dashboard designed to analyze Super Store sales performa
 <td>
 
 - ☕ Advanced Java
-- 🍃 Spring Boot
-- ⚛️ React.js
 - 🏗️ Microservices
 - ☁️ Cloud Computing
 - 🤖 Artificial Intelligence
