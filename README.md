@@ -7,9 +7,7 @@
 
 # Hi 👋, I'm Abhishek Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&random=false&width=850&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;DSA+Enthusiast;Java+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-<br>
+<img src="https://komarev.com/ghpvc/?username=AbhiCode-alt&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=AbhiCode-alt&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
