@@ -1,24 +1,16 @@
 <!-- ========================================================= -->
-<!--                GITHUB PROFILE README - PART 1             -->
-<!--            Created for: Abhishek Kumar                    -->
+<!--            GitHub Profile README - PART 1                 -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 # Hi 👋, I'm Abhishek Kumar
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhiCode-alt&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;DSA+Enthusiast;Java+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" alt="Typing Animation" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=AbhiCode-alt&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<br><br>
 
-<img src="https://img.shields.io/github/followers/AbhiCode-alt?style=for-the-badge&logo=github&label=Followers" />
-
-<img src="https://img.shields.io/github/stars/AbhiCode-alt?style=for-the-badge&logo=github&label=Stars" />
-
-</p>
+<img src="https://komarev.com/ghpvc/?username=AbhiCode-alt&label=Profile%20Views&color=0E75B6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -26,17 +18,17 @@
 
 # 💫 About Me
 
-🎓 MCA Student (2025–2027) at **GL Bajaj Institute of Technology and Management**
+🎓 **MCA Student (2025–2027)** at **GL Bajaj Institute of Technology and Management**
 
-💻 Passionate about building scalable, user-friendly, and real-world software solutions.
+💻 Passionate about **Full Stack Development**, **Java Development**, and **Data Analytics**.
 
-☕ Currently focusing on **Java Development**, **Full Stack Development**, and **Data Analytics**.
+🚀 I enjoy building real-world applications that solve practical problems.
 
-📊 I enjoy transforming raw data into meaningful insights using modern analytics tools.
+📊 Exploring Data Analytics to transform data into meaningful business insights.
 
-🧠 I continuously improve my problem-solving skills by practicing **Data Structures & Algorithms**.
+🧠 Regularly practicing **Data Structures & Algorithms** to strengthen problem-solving skills.
 
-🚀 My goal is to become a **Software Engineer** and build products that create real impact.
+🎯 Aspiring to become a **Software Engineer** while continuously learning modern technologies.
 
 📍 **Location:** Noida, Uttar Pradesh, India
 
@@ -44,35 +36,39 @@
 
 # 🚀 Current Focus
 
-- 🌱 Learning **Spring Boot**, **React.js**, and **Cloud Computing**
-- 📊 Exploring **Power BI**, **NumPy**, and **Pandas**
-- 💻 Building Full Stack Projects
-- 🧩 Solving DSA Problems regularly
-- 🤝 Looking for Software Development & Data Analytics opportunities
+- ☕ Java Development
+- 🌐 Full Stack Development
+- 📊 Data Analytics
+- 🧩 Data Structures & Algorithms
+- ☁️ Cloud Computing
+- 🤖 Artificial Intelligence
 
 ---
 
 # 💬 Ask Me About
 
-- ☕ Java
-- 🌐 Full Stack Development
-- 📊 Data Analytics
-- 🗄 SQL & MongoDB
-- 💻 Web Development
-- 🧩 Data Structures & Algorithms
+- Java
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- SQL
+- MongoDB
+- Power BI
+- Git & GitHub
 
 ---
 
 # ⚡ Fun Fact
 
-> **"I believe consistency beats talent when talent doesn't stay consistent."**
+> **"Consistency is my biggest strength. Every day I try to become a better developer than yesterday."**
 
 ---
 
 <div align="center">
 
-### 💡 *Code • Learn • Build • Repeat*
+### 💙 Code • Learn • Build • Repeat
 
 </div>
 
-<!-- ================= END OF PART 1 ================= -->
+<!-- ===================== END OF PART 1 ===================== -->
