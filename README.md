@@ -211,7 +211,7 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Clean_Coder_02/" target="_blank">
+<a href="https://leetcode.com/u/Clean_Codeer_02/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-Clean__Coder__02-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
