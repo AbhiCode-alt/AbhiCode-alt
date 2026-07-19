@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- ========================================================= -->
+<!--                GITHUB PROFILE README - PART 1             -->
+<!--            Created for: Abhishek Kumar                    -->
+<!-- ========================================================= -->
 
-<!--
-**AbhiCode-alt/AbhiCode-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Abhishek Kumar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&random=false&width=850&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;DSA+Enthusiast;Java+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<br>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=AbhiCode-alt&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/AbhiCode-alt?style=for-the-badge&logo=github&label=Followers" />
+
+<img src="https://img.shields.io/github/stars/AbhiCode-alt?style=for-the-badge&logo=github&label=Stars" />
+
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 MCA Student (2025–2027) at **GL Bajaj Institute of Technology and Management**
+
+💻 Passionate about building scalable, user-friendly, and real-world software solutions.
+
+☕ Currently focusing on **Java Development**, **Full Stack Development**, and **Data Analytics**.
+
+📊 I enjoy transforming raw data into meaningful insights using modern analytics tools.
+
+🧠 I continuously improve my problem-solving skills by practicing **Data Structures & Algorithms**.
+
+🚀 My goal is to become a **Software Engineer** and build products that create real impact.
+
+📍 **Location:** Noida, Uttar Pradesh, India
+
+---
+
+# 🚀 Current Focus
+
+- 🌱 Learning **Spring Boot**, **React.js**, and **Cloud Computing**
+- 📊 Exploring **Power BI**, **NumPy**, and **Pandas**
+- 💻 Building Full Stack Projects
+- 🧩 Solving DSA Problems regularly
+- 🤝 Looking for Software Development & Data Analytics opportunities
+
+---
+
+# 💬 Ask Me About
+
+- ☕ Java
+- 🌐 Full Stack Development
+- 📊 Data Analytics
+- 🗄 SQL & MongoDB
+- 💻 Web Development
+- 🧩 Data Structures & Algorithms
+
+---
+
+# ⚡ Fun Fact
+
+> **"I believe consistency beats talent when talent doesn't stay consistent."**
+
+---
+
+<div align="center">
+
+### 💡 *Code • Learn • Build • Repeat*
+
+</div>
+
+<!-- ================= END OF PART 1 ================= -->
