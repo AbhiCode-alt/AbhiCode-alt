@@ -251,7 +251,7 @@ A secure document redaction application that automatically detects and masks sen
 - 🔒 Secure Document Processing
 - ⚡ Fast & Accurate Redaction
 
-**Tech Stack**
+## 🚀 Tech Stack
 
 - **Programming Language:** Python 3.10+
 - **Frontend:** HTML, CSS, JavaScript, React.js
@@ -288,7 +288,6 @@ A modern web application focused on intelligent confidential data detection and 
 - 🧪 Unit Testing & GitHub Actions CI
 - 🏗️ Clean MVVM Architecture
   
-**Tech Stack**
 
 ## 🚀 Tech Stack
 
